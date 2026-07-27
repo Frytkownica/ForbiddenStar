@@ -105,7 +105,7 @@
             },
             {
                 "title": "RAIDER TACTICS",
-                "general": "If you are attacking, gain 2 (B). When your unit is destroyed during this execution round, you may retreat that unit instead. *newpara* If you are defending, gain 2 (S). When an enemy unit is routed during this execution round, it is destroyed unless your opponent spends 1 [M].",
+                "general": "If you are attacking, gain 2 (B). The first time 1 of your units is destroyed during the assess damage step of this execution round, you may retreat that unit instead. *newpara* If you are defending, gain 2 (S). When an enemy unit is routed during this execution round, it is destroyed unless your opponent spends 1 [M].",
                 "unit": "",
                 "icons": "BS"
             },
